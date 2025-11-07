@@ -76,12 +76,6 @@ No external libraries are required — this script only uses Python’s built-in
 
 🚀 How to Run
 
-Clone or download this project:
-
-git clone https://github.com/yourusername/stock-portfolio-tracker.git
-cd stock-portfolio-tracker
-
-
 Run the program:
 
 python portfolio_tracker.py
